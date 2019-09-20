@@ -8,8 +8,5 @@ Demonstrate the two ways Python's Matplotlib library can be used to generate gra
 Public sourced, True Car 2009-2015 light vehicle incentive data.
 
 # Outcome
-
-![Average Vehicle Price.png](Outcome/Average Vehicle Price.png)
-
 See results in Outcome folder.
 For code, please see Jupyter Notebook.
