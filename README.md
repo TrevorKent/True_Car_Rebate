@@ -10,6 +10,6 @@ Public sourced, True Car 2009-2015 light vehicle incentive data.
 # Outcome
 See results in Outcome folder.
 
-![temp.png](Output/temp.png)
+![temp.png](Outcome/temp.png)
 
 For code, please see Jupyter Notebook.
