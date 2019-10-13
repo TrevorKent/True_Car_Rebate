@@ -11,9 +11,9 @@ Public sourced, True Car 2009-2015 light vehicle incentive data.
 See results in Outcome folder.
 
 plt method
-![temp2.png](Outcome/temp2.png)
+![avg.png](Outcome/avg.png)
 
 ax method
-![temp.png](Outcome/temp.png)
+![spend.png](Outcome/spend.png)
 
 For code, please see Jupyter Notebook.
